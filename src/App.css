@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-image: url('headerpic.jpg');
+  height: 700px;
+  background-size: cover;  
+}
+
+.App-title {
+  font-size: 4.5em; 
+  color: white;
+  padding-top: 200px;
+  font-family: 'Lobster';
+}
+
+.App-intro {
+  font-size: large;
+}
+

@@ -9,9 +9,6 @@ class App extends Component {
         <header className="App-header">
           <div className="App-title">Viddaliv</div>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
       </div>
     );
   }
